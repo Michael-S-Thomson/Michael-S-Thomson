@@ -2,37 +2,29 @@
 
 ### Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
-I'm an aspiring Data Scientist interested in building practical projects using
-Python, SQL, Machine Learning, Data Analysis, and Power BI.
+I'm an aspiring Data Scientist interested in building practical projects using Python, SQL, Machine Learning, Data Analysis, and Power BI.
 
 ## 🛠️ Skills
 
-- Python
-- SQL
-- Machine Learning
-- Pandas
-- NumPy
-- Data Cleaning & Analysis
-- Data Visualization
-- Power BI
-- OpenCV
-- Git & GitHub
-- Jupyter Notebook
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Data Cleaning
+- **Machine Learning:** Scikit-learn, Supervised & Unsupervised Learning
+- **Deep Learning:** TensorFlow, Keras
+- **Computer Vision:** OpenCV
+- **Data Visualization:** Matplotlib, Seaborn, Power BI,Powerbi
+- **Tools:** Jupyter Notebook, Git, GitHub,Streamlit
 
-## 📊 Projects
+## 🚀 Projects
 
 ### 🚗 Lane Follower Assist
 Computer Vision and Machine Learning project for lane-following assistance.
 
-**Technologies:** Python, OpenCV, TensorFlow, Machine Learning
+**Technologies:** Python, OpenCV, TensorFlow, Keras, Machine Learning
 
-### 📈 Data Science Projects
-Practical projects involving data analysis, visualization, machine learning,
-and predictive modeling.
+### 📊 Data Science Internship Projects
+Data analysis and machine learning projects developed during my Data Science internship.
 
-### 🏠 Home Automation Using IoT
-IoT-based home automation project using microcontrollers, sensors, Wi-Fi,
-and cloud-based monitoring.
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
 
 ## 📚 Currently Learning
 
@@ -41,15 +33,15 @@ and cloud-based monitoring.
 - Machine Learning
 - Deep Learning
 - Power BI
-- Data Science
 - Artificial Intelligence
+- Data Science
 
-## 🎯 Career Goal
+## 🎯 Career Interests
 
-Looking for entry-level opportunities in:
+I'm interested in entry-level opportunities in:
 
 - Data Science
-- Data Analyst
+- Data Analytics
 - Machine Learning
 - AI/ML
 - Python Development
