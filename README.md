@@ -1,59 +1,52 @@
-# Hi, I'm Michael Singarayar Thomson 👋
+# Hi, I'm Michael Thomson 👋
 
-### Aspiring Data Scientist | AI & Machine Learning Enthusiast
+### Aspiring Data Scientist | Machine Learning Enthusiast
 
-I'm an aspiring Data Scientist interested in building practical projects using Python, SQL, Machine Learning, Data Analysis, and Power BI.
+I'm an aspiring Data Scientist interested in using Python, data analysis, and machine learning to solve real-world problems.
 
-## 🛠️ Skills
+I'm continuously improving my technical skills through practical projects and hands-on learning.
+
+## 🛠️ Technical Skills
 
 - **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Data Cleaning
-- **Machine Learning:** Scikit-learn, Supervised & Unsupervised Learning
-- **Deep Learning:** TensorFlow, Keras
-- **Computer Vision:** OpenCV
-- **Data Visualization:** Matplotlib, Seaborn, Power BI,Powerbi
-- **Tools:** Jupyter Notebook, Git, GitHub,Streamlit
+- **Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis
+- **Data Visualization:** Power BI, Matplotlib
+- **Machine Learning:** Machine Learning Fundamentals, Model Training and Evaluation
+- **Tools:** Jupyter Notebook, Git, GitHub
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-### 🚗 Lane Follower Assist
-Computer Vision and Machine Learning project for lane-following assistance.
+### Lane Follower Assist System (LFAS)
 
-**Technologies:** Python, OpenCV, TensorFlow, Keras, Machine Learning
+A computer vision and machine learning project focused on lane detection and vehicle lane-position assistance.
 
-### 📊 Data Science Internship Projects
-Data analysis and machine learning projects developed during my Data Science internship.
+- Worked with CARLA camera image data.
+- Developed a CNN-based semantic segmentation prototype.
+- Explored image preprocessing, model training, and evaluation.
+- Used Python and TensorFlow.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
+[View my LFAS Project](https://github.com/Michael-S-Thomson/lane-follower-assist)
 
 ## 📚 Currently Learning
 
-- Advanced Python
-- SQL
-- Machine Learning
-- Deep Learning
-- Power BI
-- Artificial Intelligence
-- Data Science
+- Data Science and Machine Learning
+- Advanced Python and SQL
+- Deep Learning and Computer Vision
+- Data Visualization and Analytics
 
 ## 🎯 Career Interests
 
-I'm interested in entry-level opportunities in:
+- Data Scientist
+- Machine Learning Engineer
+- Data Analyst
+- AI Engineer
 
-- Data Science
-- Data Analytics
-- Machine Learning
-- AI/ML
-- Python Development
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
+- **GitHub:** [Michael-S-Thomson](https://github.com/Michael-S-Thomson)
 
-- GitHub: [Michael-S-Thomson](https://github.com/Michael-S-Thomson)
+I'm open to learning opportunities, internships, and entry-level opportunities in Data Science, AI, and Machine Learning.
 
 ---
 
-⭐ Thanks for visiting my profile!
-
-<!--
-**Michael-S-Thomson/Michael-S-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+⭐ Thank you for visiting my profile!
