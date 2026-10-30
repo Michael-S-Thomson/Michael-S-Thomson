@@ -44,7 +44,8 @@ A computer vision and machine learning project focused on lane detection and veh
 ## 🤝 Connect With Me
 
 - **GitHub:** [Michael-S-Thomson](https://github.com/Michael-S-Thomson)
-
+- **LinkedIn:** [Michael Singarayar Thomson](https://www.linkedin.com/in/michael-singarayar-thomson/)
+- **Email:** [michaelthomson239@gmail.com]
 I'm open to learning opportunities, internships, and entry-level opportunities in Data Science, AI, and Machine Learning.
 
 ---
